@@ -45,17 +45,17 @@ Now, grab the element of the document object model (DOM) on the HTML page with I
 
 Some more examples of using innerHTML can be found [on w3schools](https://www.w3schools.com/jsref/prop_html_innerhtml.asp).
 
-## Template Repository Setup (For Instructors Only):
+## Assignment Setup (For Instructors Only):
 
 ### Create Repo
 
 1. Go to this year's staff GitHub organization.
 
-1. Create the new repository name.
+1. Create the new repository using a meaningful name.
 
 1. Clone the repository locally.
 
-1. Copy in the files from last year and make any necessary updates.
+1. Copy in the files from last year and make any necessary updates, *including assignment links to Canvas.*
 
 1. Commit and push changes.
 
@@ -80,3 +80,23 @@ It is necessary if using GitHub Classroom to set up GitHub pages for the student
 ### Template Repository
 
 1. On GitHub, go to `Settings` and check the box for `Template repository` at the top. This makes GitHub Classroom copies much faster.
+
+### GitHub Classroom
+
+1. Create the assignment on GitHub Classroom.
+
+1. Set the assignment title to be the same as on Canvas.
+
+1. Set the deadline (23:59 of that day for in-class activities) and make sure it matches the assignment on Canvas.
+
+1. Make the repository Public.
+
+1. Set the template repository (where this file is) as the starter code.
+
+1. Enable feedback pull requests.
+
+1. Update assignment.
+
+1. Enable the assignment invitation URL.
+
+1. In the Canvas assignment, replace the old assignment invitation URL and template repo link URLs with the new ones.
