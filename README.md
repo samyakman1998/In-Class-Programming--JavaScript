@@ -47,6 +47,18 @@ Some more examples of using innerHTML can be found [on w3schools](https://www.w3
 
 ## Template Repository Setup (For Instructors Only):
 
+### Create Repo
+
+1. Go to this year's staff GitHub organization.
+
+1. Create the new repository name.
+
+1. Clone the repository locally.
+
+1. Copy in the files from last year and make any necessary updates.
+
+1. Commit and push changes.
+
 ### GitHub Pages
 
 It is necessary if using GitHub Classroom to set up GitHub pages for the students, as they do not have admin permissions on their repository. To do this, we need to create and move everything to the `gh-pages` branch and delete the `master` branch.
