@@ -4,7 +4,7 @@
 
 This repository is your starting point for the assignment and includes the instructions below.
 
-Link to your GitHub pages website: `[insert your hyperlink here]`
+Link to your GitHub pages website: `[insert your clickable hyperlink here]`
 
 # Aim of the assignment
 Build comfort with how to use git, GitHub Pages, JS, and HTML.
@@ -13,7 +13,7 @@ Build comfort with how to use git, GitHub Pages, JS, and HTML.
 Edit the files to include the functionality described in [this tutorial on w3resource](https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-10.php).
 
 # Submission instructions  
-Modify the  `[insert your hyperlink here]` code in `README.md` to point to your GitHub pages URL. (Detailed instructions for GitHub pages [here](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Using_Github_pages).)
+Modify the  `[insert your clickable hyperlink here]` code in `README.md` to point to your GitHub pages URL. (Detailed instructions for GitHub pages [here](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Using_Github_pages).)
 Commit your changes to your local repo and push to the remote GitHub repo.
 Submit the URL of your repo to the [activity assignment on Canvas](https://northeastern.instructure.com/courses/18721/assignments/573840).
 
@@ -25,23 +25,23 @@ JavaScript (JS) is a high-level, interpreted programming language for computers.
 
 In the HTML file there is the line:
 ```html
-<input type="button" onClick="multiplyBy()" Value="Multiply" />
+<input type='button' onClick='multiplyBy()' Value='Multiply' />
 ```
-This states that we have an HTML input field here which is of a button type and the value `"Multiply"` ends up as the button's label. It also states that when you click the button, the browser is supposed to call the JavaScript function `multiplyBy()` which is defined in the corresponding JS file. We should write the action that is expected to occur in this function definition.
+This states that we have an HTML input field here which is of a button type and the value `'Multiply'` ends up as the button's label. It also states that when you click the button, the browser is supposed to call the JavaScript function `multiplyBy()` which is defined in the corresponding JS file. We should write the action that is expected to occur in this function definition.
 
 Function explanation:
 ```javascript
 function multiplyBy(){
-        num1 = document.getElementById("firstNumber").value;
-        num2 = document.getElementById("secondNumber").value;
-        document.getElementById("result").innerHTML = num1 * num2;
+        num1 = document.getElementById('firstNumber').value;
+        num2 = document.getElementById('secondNumber').value;
+        document.getElementById('result').innerHTML = num1 * num2;
 }
 ```
 
-Function keyword states that `multiplyBy()` will be defined as follows. Here, it says grab the value of the element having ID=`"firstNumber"` and put it into a variable called `num1` and ID=`"secondNumber"` into `num2`. For more info on how this works see [CSS Selectors on w3schools](https://www.w3schools.com/cssref/css_selectors.asp).
+Function keyword states that `multiplyBy()` will be defined as follows. Here, it says grab the value of the element having ID=`'firstNumber'` and put it into a variable called `num1` and ID=`'secondNumber'` into `num2`. For more info on how this works see [CSS Selectors on w3schools](https://www.w3schools.com/cssref/css_selectors.asp).
 
-Now, grab the element of the document object model (DOM) on the HTML page with ID="result" and set its innerHTML property. We will now calculate the value by multiplying `num1 * num2` and then put this value into ID=`"result"` by this statement:
-`document.getElementById("result").innerHTML = num1 * num2;`
+Now, grab the element of the document object model (DOM) on the HTML page with ID='result' and set its innerHTML property. We will now calculate the value by multiplying `num1 * num2` and then put this value into ID=`'result'` by this statement:
+`document.getElementById('result').innerHTML = num1 * num2;`
 
 Some more examples of using innerHTML can be found [on w3schools](https://www.w3schools.com/jsref/prop_html_innerhtml.asp).
 
