@@ -10,12 +10,15 @@ Link to your GitHub pages website: `[insert your clickable hyperlink here]`
 Build comfort with how to use git, GitHub Pages, JS, and HTML.
 
 # Instructions 
-Edit the files to include the functionality described in [this tutorial on w3resource](https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-10.php).
+1. Edit near the top of your README.md file to include a clickable hyperlink to the GitHub page website for your repo., replacing the `` `[insert your clickable hyperlink here]` `` code with your markdown. (Detailed instructions for GitHub pages [here](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Using_Github_pages).)
+
+1. Edit the files to include the functionality described in [this tutorial on w3resource](https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-10.php).
+
+1. Commit your changes to your local repo and push to the remote GitHub repo.
 
 # Submission instructions  
-Modify the  `[insert your clickable hyperlink here]` code in `README.md` to point to your GitHub pages URL. (Detailed instructions for GitHub pages [here](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Using_Github_pages).)
-Commit your changes to your local repo and push to the remote GitHub repo.
-Submit the URL of your repo to the [activity assignment on Canvas](https://northeastern.instructure.com/courses/18721/assignments/573840).
+
+1. Submit the URL of **your GitHub Classroom-generated repository** to the [activity assignment on Canvas](https://northeastern.instructure.com/courses/18721/assignments/573840). **Do not submit a link to a personal repository. It must be within our class GitHub organization.** 
 
 # Stretch goal
 If you are done with the first goal, try to build a simple calculator with all numbers as buttons and operations as buttons too. [This article](https://medium.com/@ethanryan/lets-make-a-javascript-calculator-a81186cb912f) has some ideas you can use, but consider trying things out yourself. You likely won't be able to get the full thing working in class but it will help you get a hands on experience of working with HTML, CSS and Javascript.
