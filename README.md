@@ -10,13 +10,13 @@ Link to your GitHub pages website: `[insert your clickable hyperlink here]`
 Build comfort with how to use git, GitHub Pages, JS, and HTML.
 
 # Instructions 
-1. Edit near the top of your README.md file to include a clickable hyperlink to the GitHub page website for your repo., replacing the `` `[insert your clickable hyperlink here]` `` code with your markdown. (Detailed instructions for GitHub pages [here](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Using_Github_pages).)
+1. Edit near the top of this `README.md` file to include a clickable hyperlink to the GitHub page website for your repo., replacing the `` `[insert your clickable hyperlink here]` `` code with your markdown. (Detailed instructions for GitHub pages [here](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Using_Github_pages).)
 
 1. Edit the files to include the functionality described in [this tutorial on w3resource](https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-10.php).
 
-1. Commit your changes to your local repo and push to the remote GitHub repo.
-
 # Submission instructions  
+
+1. Commit all your local code and push it to your remote GitHub Classroom-generated repository.
 
 1. Submit the URL of **your GitHub Classroom-generated repository** to the [activity assignment on Canvas](https://northeastern.instructure.com/courses/18721/assignments/573840). **Do not submit a link to a personal repository. It must be within our class GitHub organization.** 
 
