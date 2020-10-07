@@ -4,7 +4,7 @@
 
 This repository is your starting point for the assignment and includes the instructions below.
 
-Link to your GitHub pages website: `[insert your clickable hyperlink here]`
+Link to your GitHub pages website: `https://github.com/NEU-DS-4200-F20-Staff/In-Class-Programming--JavaScript.git`
 
 # Aim of the assignment
 Build comfort with how to use git, GitHub Pages, JS, and HTML.
